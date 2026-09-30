@@ -1,0 +1,10 @@
+azure-ai-projects>=2.3.0
+azure-identity
+azure-ai-textanalytics
+azure-ai-vision-imageanalysis
+azure-ai-documentintelligence
+azure-cognitiveservices-speech
+openai
+python-dotenv
+requests
+pillow
